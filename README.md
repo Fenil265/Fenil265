@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Fenil 👋
 
-<!--
-**Fenil265/Fenil265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building developer tools:
+- 🔗 https://alljsontools.com
+- 🔗 https://allmarkdowntools.com
 
-Here are some ideas to get you started:
+💡 What I do:
+- Build scalable web apps
+- Create useful tools for developers
+- Focus on performance & simplicity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack:
+React • Node.js • PHP • TypeScript • Next.js
+
+📈 Current Focus:
+- Growing SEO-driven tools
+- Shipping fast & iterating
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/fenil265
