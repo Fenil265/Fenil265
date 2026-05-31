@@ -1,50 +1,65 @@
-<h1 align="center">Hi, I'm Fenil 👋</h1>
+<h1 align="center">Fenil Panwala</h1>
+<p align="center"><i>Full-stack engineer · Ahmedabad, India · Building SEO-first developer tools</i></p>
 
 <p align="center">
-  <a href="https://alljsontools.com">alljsontools.com</a> •
-  <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> •
-  <a href="https://linkedin.com/in/fenil265">LinkedIn</a> •
-  <a href="mailto:panwalafenil.94@gmail.com">Email</a>
+  <a href="https://alljsontools.com">alljsontools.com</a> ·
+  <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> ·
+  <a href="https://linkedin.com/in/fenil265">LinkedIn</a> ·
+  <a href="mailto:panwalafenil.94@gmail.com">panwalafenil.94@gmail.com</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenil265&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Collab%20%26%20Freelance-brightgreen?style=flat" alt="Open to collab" />
 </p>
 
 ---
 
-### Full-Stack Engineer · Building Developer Tools that Scale
+### What I do
 
-I ship lean, SEO-driven web tools that solve real developer problems. Product mindset, fast iteration, measurable growth.
+I design, build, and grow micro-SaaS web tools end-to-end. My focus is the unglamorous middle: tools that load instantly, rank on Google, and stay useful enough to bring developers back. I own the full loop — keyword research, UX, code, infra, and SEO.
 
-## What I'm Building
+### Live products
 
-- **[alljsontools.com](https://alljsontools.com)** — fast, SEO-driven JSON utilities for developers.
-- **[allmarkdowntools.com](https://allmarkdowntools.com)** — Markdown tools built for speed and productivity.
+| Product | What it does | Stack |
+|---|---|---|
+| [**alljsontools.com**](https://alljsontools.com) | 30+ JSON utilities — format, validate, diff, convert, query | Next.js · TypeScript · Vercel |
+| [**allmarkdowntools.com**](https://allmarkdowntools.com) | Markdown converters, editors, and table builders | Next.js · TypeScript · Vercel |
 
-## Tech Stack
+> *Sites are indexed for thousands of long-tail JSON/Markdown queries and tuned for Core Web Vitals (LCP < 2.5s on 4G).*
+
+### How I work
+
+- **Ship narrow, ship fast.** One tool, one URL, one job. Iterate from real search data, not assumptions.
+- **SEO is a feature.** Schema, semantic HTML, internal linking treated as first-class engineering.
+- **Performance is the moat.** Edge rendering, zero hydration where possible, no client-side bloat.
+- **Product over pretty.** Speed and clarity beat animations.
+
+### Tech I reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,php,java,python,mysql,postgres,redis,docker,aws,vercel,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,php,java,python,mysql,postgres,redis,docker,aws,vercel,git" alt="Tech stack" />
 </p>
 
-## Current Focus
+### Currently exploring
 
-- Scaling SEO-driven developer tools to organic traffic milestones
-- Core Web Vitals and frontend performance optimization
-- Shipping micro-tools that solve narrow, real dev problems
+- Programmatic SEO patterns for tool directories
+- Edge-side compute for client-heavy converters (WASM + Cloudflare Workers)
+- Lightweight monetization paths for high-traffic, low-intent tool sites
 
-## GitHub Stats
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenil265&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Fenil265&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fenil265&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies" />
+  <img src="https://ghchart.rshah.org/409ba5/Fenil265" alt="Contribution chart" />
 </p>
 
 ---
 
-<p align="center"><i>Open to collaboration on developer tools, SEO products, and indie SaaS.</i></p>
+<p align="center">
+  <i>Got a niche developer tool idea or an SEO product to grow? Let's talk.</i><br/>
+  <a href="mailto:panwalafenil.94@gmail.com">panwalafenil.94@gmail.com</a>
+</p>
