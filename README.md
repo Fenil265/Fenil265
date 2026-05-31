@@ -1,9 +1,10 @@
 <h1 align="center">Fenil Panwala</h1>
-<p align="center"><i>Full-stack engineer · Ahmedabad, India · Building SEO-first developer tools</i></p>
+<p align="center"><i>Team Lead · Full-stack engineer · Ahmedabad, India · Building SEO-first developer tools on the side</i></p>
 
 <p align="center">
   <a href="https://alljsontools.com">alljsontools.com</a> ·
   <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> ·
+  <a href="https://x.com/fenil265">X</a> ·
   <a href="https://linkedin.com/in/fenil265">LinkedIn</a> ·
   <a href="mailto:panwalafenil.94@gmail.com">panwalafenil.94@gmail.com</a>
 </p>
@@ -25,6 +26,7 @@ I design, build, and grow micro-SaaS web tools end-to-end. My focus is the ungla
 |---|---|---|
 | [**alljsontools.com**](https://alljsontools.com) | 30+ JSON utilities — format, validate, diff, convert, query | Next.js · TypeScript · Vercel |
 | [**allmarkdowntools.com**](https://allmarkdowntools.com) | Markdown converters, editors, and table builders | Next.js · TypeScript · Vercel |
+| [**allblackfridaydeals.com**](https://allblackfridaydeals.com) | Curated Black Friday & Cyber Monday deals across categories | Next.js · TypeScript · Vercel |
 
 > *Sites are indexed for thousands of long-tail JSON/Markdown queries and tuned for Core Web Vitals (LCP < 2.5s on 4G).*
 
