@@ -11,6 +11,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Experience-10%2B%20yrs-1f6feb?style=flat" alt="10+ years experience" />
+  <img src="https://img.shields.io/badge/Indie%20SaaS-3%20live-2ea043?style=flat" alt="3 live indie SaaS products" />
+  <img src="https://img.shields.io/badge/Freelance-3%20clients-d97706?style=flat" alt="3 freelance clients shipped" />
+  <img src="https://img.shields.io/badge/%40-NeoSOFT-0e1116?style=flat" alt="Currently at NeoSOFT" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenil265&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:panwalafenil.94@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collab%20%26%20Freelance-brightgreen?style=flat" alt="Open to collab" /></a>
 </p>
@@ -22,6 +29,14 @@
 By day I lead engineering at **NeoSOFT** (Ahmedabad), building scalable backend and full-stack systems for **Fundly** — Node.js, NestJS, React, Next.js, Laravel, AWS. Ten-plus years in product engineering, from WordPress trainee to Associate Team Lead.
 
 On the side I design, build, and grow SEO-first micro-SaaS web tools end-to-end. My focus is the unglamorous middle: tools that load instantly, rank on Google, and stay useful enough to bring developers back. I own the full loop — keyword research, UX, code, infra, and SEO.
+
+### AI / LLM work
+
+I ship production LLM features end-to-end — design, prompting, evals, infra:
+
+- **LLM-powered product features** — chat, summarization, content generation backed by **OpenAI (GPT-4)** and **Anthropic Claude**.
+- **Agentic workflows** — multi-step agents with tool use and function calling for tasks that need reasoning, not just generation.
+- **Production focus** — cost guardrails, latency budgets, prompt versioning, and graceful fallbacks between model providers.
 
 ### Experience
 
