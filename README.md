@@ -27,9 +27,9 @@ On the side I design, build, and grow SEO-first micro-SaaS web tools end-to-end.
 
 | Company | Role | Tenure |
 |---|---|---|
-| **NeoSOFT** | Associate Team Lead → Senior Software Engineer (Fundly) | Mar 2023 - present |
+| **NeoSOFT** | Senior Software Engineer → Associate Team Lead (Fundly) | Mar 2023 - present |
 | **WebMobTech Solutions** | Senior Software Developer | Nov 2020 - Feb 2023 |
-| **AllEvents.in** | Senior Software Developer → Junior Web Developer | Sep 2015 - Aug 2020 |
+| **AllEvents.in** | Junior Web Developer → Senior Software Developer | Sep 2015 - Aug 2020 |
 
 ### Live products
 
