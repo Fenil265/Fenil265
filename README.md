@@ -1,5 +1,5 @@
 <h1 align="center">Fenil Panwala</h1>
-<p align="center"><i>Team Lead · Full-stack engineer · Ahmedabad, India · Building SEO-first developer tools on the side</i></p>
+<p align="center"><i>Associate Team Lead @ NeoSOFT · 10+ yrs full-stack · Backend & AI-driven systems · Ahmedabad, India</i></p>
 
 <p align="center">
   <a href="https://alljsontools.com">alljsontools.com</a> ·
@@ -19,7 +19,17 @@
 
 ### What I do
 
-I design, build, and grow micro-SaaS web tools end-to-end. My focus is the unglamorous middle: tools that load instantly, rank on Google, and stay useful enough to bring developers back. I own the full loop — keyword research, UX, code, infra, and SEO.
+By day I lead engineering at **NeoSOFT** (Ahmedabad), building scalable backend and full-stack systems for **Fundly** — Node.js, NestJS, React, Next.js, Laravel, AWS. Ten-plus years in product engineering, from WordPress trainee to Associate Team Lead.
+
+On the side I design, build, and grow SEO-first micro-SaaS web tools end-to-end. My focus is the unglamorous middle: tools that load instantly, rank on Google, and stay useful enough to bring developers back. I own the full loop — keyword research, UX, code, infra, and SEO.
+
+### Experience
+
+| Company | Role | Tenure |
+|---|---|---|
+| **NeoSOFT** | Associate Team Lead → Senior Software Engineer (Fundly) | Mar 2023 - present |
+| **WebMobTech Solutions** | Senior Software Developer | Nov 2020 - Feb 2023 |
+| **AllEvents.in** | Senior Software Developer → Junior Web Developer | Sep 2015 - Aug 2020 |
 
 ### Live products
 
@@ -37,7 +47,7 @@ I design, build, and grow micro-SaaS web tools end-to-end. My focus is the ungla
 |---|---|
 | [**milkwala.store**](https://milkwala.store) | E-commerce storefront for dairy subscriptions and ordering |
 | [**kalyyafarms.com**](https://kalyyafarms.com) | Farm-to-home brand site with product catalog and orders |
-| [**IIMA × GNCTD**](https://iima.github.io) | Research portal for Governance & Administration of National Capital Territory of Delhi (IIMA collaboration) |
+| **IIMA × GNCTD** | Research portal for Governance & Administration of National Capital Territory of Delhi (IIMA collaboration) |
 
 ### How I work
 
