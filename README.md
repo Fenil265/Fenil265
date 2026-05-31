@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://alljsontools.com">alljsontools.com</a> ·
   <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> ·
+  <a href="https://allblackfridaydeals.com">allblackfridaydeals.com</a> ·
   <a href="https://x.com/fenil265">X</a> ·
   <a href="https://linkedin.com/in/fenil265">LinkedIn</a> ·
   <a href="mailto:panwalafenil.94@gmail.com">panwalafenil.94@gmail.com</a>
@@ -29,6 +30,14 @@ I design, build, and grow micro-SaaS web tools end-to-end. My focus is the ungla
 | [**allblackfridaydeals.com**](https://allblackfridaydeals.com) | Curated Black Friday & Cyber Monday deals across categories | Next.js · TypeScript · Vercel |
 
 > *Sites are indexed for thousands of long-tail JSON/Markdown queries and tuned for Core Web Vitals (LCP < 2.5s on 4G).*
+
+### Freelance / Client work
+
+| Client | What I built |
+|---|---|
+| [**milkwala.store**](https://milkwala.store) | E-commerce storefront for dairy subscriptions and ordering |
+| [**kalyyafarms.com**](https://kalyyafarms.com) | Farm-to-home brand site with product catalog and orders |
+| [**IIMA × GNCTD**](https://iima.github.io) | Research portal for Governance & Administration of National Capital Territory of Delhi (IIMA collaboration) |
 
 ### How I work
 
