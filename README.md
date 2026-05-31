@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenil265&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collab%20%26%20Freelance-brightgreen?style=flat" alt="Open to collab" />
+  <a href="mailto:panwalafenil.94@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collab%20%26%20Freelance-brightgreen?style=flat" alt="Open to collab" /></a>
 </p>
 
 ---
