@@ -1,65 +1,50 @@
-<h1 align="center">Hey 👋, I'm Fenil</h1>
-<h3 align="center">🚀 Full-Stack Engineer | Building Developer Tools that Scale</h3>
+<h1 align="center">Hi, I'm Fenil 👋</h1>
 
 <p align="center">
   <a href="https://alljsontools.com">alljsontools.com</a> •
-  <a href="https://allmarkdowntools.com">allmarkdowntools.com</a>
+  <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> •
+  <a href="https://linkedin.com/in/fenil265">LinkedIn</a> •
+  <a href="mailto:panwalafenil.94@gmail.com">Email</a>
 </p>
-
----
-
-## 🚀 What I'm Building
-
-🔗 **alljsontools.com**  
-→ Fast, simple, SEO-driven JSON tools for developers  
-
-🔗 **allmarkdowntools.com**  
-→ Markdown tools designed for productivity & speed  
-
----
-
-## 💡 About Me
-
-- ⚡ Full-stack engineer with product mindset  
-- 🧠 Focused on building **useful tools, not just features**  
-- 🚀 Shipping fast, iterating faster  
-- 📈 Growing products via **SEO + real user needs**
-
----
-
-## ⚙️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,php,java,python,mysql,docker,aws" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenil265&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenil265&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Fenil265&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+### Full-Stack Engineer · Building Developer Tools that Scale
 
-- 📈 Scaling SEO-driven developer tools  
-- ⚡ Performance optimization (Core Web Vitals)  
-- 🧰 Building micro-tools that solve real dev problems  
+I ship lean, SEO-driven web tools that solve real developer problems. Product mindset, fast iteration, measurable growth.
 
----
+## What I'm Building
 
-## 🌐 Connect With Me
+- **[alljsontools.com](https://alljsontools.com)** — fast, SEO-driven JSON utilities for developers.
+- **[allmarkdowntools.com](https://allmarkdowntools.com)** — Markdown tools built for speed and productivity.
+
+## Tech Stack
 
 <p>
-  <a href="https://linkedin.com/in/fenil265">LinkedIn</a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,php,java,python,mysql,postgres,redis,docker,aws,vercel,git" alt="Tech stack" />
+</p>
+
+## Current Focus
+
+- Scaling SEO-driven developer tools to organic traffic milestones
+- Core Web Vitals and frontend performance optimization
+- Shipping micro-tools that solve narrow, real dev problems
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fenil265&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Fenil265&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fenil265&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-I don’t just write code — I build products people actually use.
+<p align="center"><i>Open to collaboration on developer tools, SEO products, and indie SaaS.</i></p>
