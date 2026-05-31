@@ -4,10 +4,15 @@
 <p align="center">
   <a href="https://alljsontools.com">alljsontools.com</a> ·
   <a href="https://allmarkdowntools.com">allmarkdowntools.com</a> ·
-  <a href="https://allblackfridaydeals.com">allblackfridaydeals.com</a> ·
+  <a href="https://allblackfridaydeals.com">allblackfridaydeals.com</a>
+</p>
+
+<p align="center">
   <a href="https://x.com/fenil265">X</a> ·
   <a href="https://linkedin.com/in/fenil265">LinkedIn</a> ·
-  <a href="mailto:panwalafenil.94@gmail.com">panwalafenil.94@gmail.com</a>
+  <a href="https://www.producthunt.com/@fenil265">Product Hunt</a> ·
+  <a href="https://www.reddit.com/user/fenil26594/">Reddit</a> ·
+  <a href="mailto:panwalafenil.94@gmail.com">Email</a>
 </p>
 
 <p align="center">
