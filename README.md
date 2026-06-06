@@ -23,7 +23,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fenil265&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:panwalafenil.94@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collab%20%26%20Freelance-brightgreen?style=flat" alt="Open to collab" /></a>
 </p>
 
@@ -56,9 +55,11 @@ I ship production LLM features end-to-end — design, prompting, evals, infra:
 | Product | What it does | Stack |
 |---|---|---|
 | [**alljsontools.com**](https://alljsontools.com) | 30+ JSON utilities — format, validate, diff, convert, query | Next.js · TypeScript · Vercel |
-| [**allmarkdowntools.com**](https://allmarkdowntools.com) | Markdown converters, editors, and table builders | Next.js · TypeScript · Vercel |
+| [**allmarkdowntools.com**](https://allmarkdowntools.com) | 20 markdown converters & generators + 5 comparison guides — 44 indexed pages | Next.js · TypeScript · Vercel |
 | [**allblackfridaydeals.com**](https://allblackfridaydeals.com) | Curated Black Friday & Cyber Monday deals across categories | Next.js · TypeScript · Vercel |
 
+> *Latest ship: **allmarkdowntools.com** — 20 tools shipped solo in 3 months, SEO-first build, Product Hunt launch May 2026, +278% MoM traffic post-launch.*
+>
 > *Sites are indexed for thousands of long-tail JSON/Markdown queries and tuned for Core Web Vitals (LCP < 2.5s on 4G).*
 
 ### Freelance / Client work
@@ -78,25 +79,9 @@ I ship production LLM features end-to-end — design, prompting, evals, infra:
 
 ### Tech I reach for
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,php,java,python,mysql,postgres,redis,docker,aws,vercel,git" alt="Tech stack" />
-</p>
-
-### Currently exploring
-
-- Programmatic SEO patterns for tool directories
-- Edge-side compute for client-heavy converters (WASM + Cloudflare Workers)
-- Lightweight monetization paths for high-traffic, low-intent tool sites
-
-### GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fenil265&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Fenil265" alt="Contribution chart" />
-</p>
+**Backend:** Node.js · NestJS · Laravel · PHP · Java · Python
+**Frontend:** TypeScript · React · Next.js · Tailwind
+**Data & infra:** PostgreSQL · MySQL · Redis · Docker · AWS · Vercel
 
 ---
 
