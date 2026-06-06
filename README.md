@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-10%2B%20yrs-1f6feb?style=flat" alt="10+ years experience" />
-  <img src="https://img.shields.io/badge/Indie%20SaaS-3%20live-2ea043?style=flat" alt="3 live indie SaaS products" />
-  <img src="https://img.shields.io/badge/Freelance-3%20clients-d97706?style=flat" alt="3 freelance clients shipped" />
-  <img src="https://img.shields.io/badge/%40-NeoSOFT-0e1116?style=flat" alt="Currently at NeoSOFT" />
+  <a href="https://linkedin.com/in/fenil265"><img src="https://img.shields.io/badge/Experience-10%2B%20yrs-1f6feb?style=flat" alt="10+ years experience" /></a>
+  <a href="#live-products"><img src="https://img.shields.io/badge/Indie%20SaaS-3%20live-2ea043?style=flat" alt="3 live indie SaaS products" /></a>
+  <a href="#freelance--client-work"><img src="https://img.shields.io/badge/Freelance-3%20clients-d97706?style=flat" alt="3 freelance clients shipped" /></a>
+  <a href="https://www.neosofttech.com/"><img src="https://img.shields.io/badge/%40-NeoSOFT-0e1116?style=flat" alt="Currently at NeoSOFT" /></a>
 </p>
 
 <p align="center">
